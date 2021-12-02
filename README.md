@@ -3,7 +3,7 @@
 You are starting your journey as a Blockchain Developer, this project allows you to demonstrate
 that you are familiarized with the fundamentals concepts of a Blockchain platform.
 Concepts like:
-    - Block
+    - Block 
     - Blockchain
     - Wallet
     - Blockchain Identity
