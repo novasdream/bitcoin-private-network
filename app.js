@@ -52,6 +52,6 @@ class ApplicationServer {
 		});
 	}
 
-}
+} 
 
 new ApplicationServer();
